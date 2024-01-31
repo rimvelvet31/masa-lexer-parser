@@ -1,0 +1,8 @@
+Lexeme              Token     
+pakita              IDENTIFIER
+(                   LEFT PARENTHESIS
+"                   DOUBLE QUOTE
+hello world         STRING    
+"                   DOUBLE QUOTE
+)                   RIGHT PARENTHESIS
+;                   EOF       
